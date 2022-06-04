@@ -1,5 +1,25 @@
 ### Hi there 👋
 
+My name is Robin, im a 35 year old junior Frontend developer from Norway. I'm currently enrolled at Noroff school of technology and digital media at the course Frontend development. I have 23 years of experiance with IT, computers and telecom, also worked alot with costumer service. I'm studying Digital Marketing in my own sparetime when im not involved in projects or school work.
+
+I like making or partake in making solutions that will benefit all users of a project/site/app / software or system. I do like keeping the user experiance of things a priority as far as possible. 
+
+Im a person with overflow in the imagination department, and i like to think about new or better ways of doing things.
+
+## Experiance / skill
+- HTML5
+- CSS3
+- Javascript / jQuery
+- Bootstrap
+- PHP and Laravel (still learning alot here)
+
+There is not many projects that has made it to my github yet, but there will be alot more coming... So consider this as a work in progress.
+
+## Contact me 
+
+There is different places i can be contacted apart from here on github.
+[My Page]https://www.johnsen-codes.no
+[My LinkedIn page]https://www.linkedin.com/in/robin-johnsen-04a226159/
 <!--
 **ShaindalDev/ShaindalDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
