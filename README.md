@@ -18,8 +18,8 @@ There is not many projects that has made it to my github yet, but there will be 
 ## Contact me 
 
 There is different places i can be contacted apart from here on github.
-[My Page]https://www.johnsen-codes.no
-[My LinkedIn page]https://www.linkedin.com/in/robin-johnsen-04a226159/
+[My Page] https://www.johnsen-codes.no
+[My LinkedIn page] https://www.linkedin.com/in/robin-johnsen-04a226159/
 <!--
 **ShaindalDev/ShaindalDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
