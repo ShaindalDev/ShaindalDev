@@ -10,13 +10,15 @@ Project management is something i enjoy doing since i have a very active mindset
 Im a person with overflow in the imagination department, and i like to think about new or better ways of doing things.
 
 ## Experiance / skill
-- HTML5
-- CSS3
-- Javascript / jQuery
-- Bootstrap
-- React
-- Tailwind
-- PHP and Laravel (still learning alot here)
+- <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white" />
+- <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white" />
+- <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E" />
+- <img src="https://img.shields.io/badge/markdown-%23000000.svg?style=plastic&logo=markdown&logoColor=white" />
+- ![![react](./src/react.svg)](https://badges.aleen42.com/src/react.svg)
+- ![![tailwindcss](./src/tailwindcss.svg)](https://badges.aleen42.com/src/tailwindcss.svg)
+- ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+- ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+- ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
 
 There is not many projects that has made it to my github yet, but there will be alot more coming... So consider this as a work in progress.
 
