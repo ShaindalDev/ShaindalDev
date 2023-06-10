@@ -4,6 +4,9 @@ My name is Robin, im a 37 year old junior Frontend developer from Norway. I'm cu
 
 I like making or partake in making solutions that will benefit all users of a project/site/app / software or system. I do like keeping the user experiance of things a priority as far as possible. 
 
+I also have a passion for project management and photography. Photography is at the moment a hobby activity i do when i see the opportunities of a good photo. 
+Project management is something i enjoy doing since i have a very active mindset and i need order and structure in things
+
 Im a person with overflow in the imagination department, and i like to think about new or better ways of doing things.
 
 ## Experiance / skill
