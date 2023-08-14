@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Robin, im a 37 year old junior Frontend developer from Norway. I'm currently enrolled at Noroff school of technology and digital media at the course Frontend development. I have 24 years of experiance with IT, computers and telecom, also worked alot with costumer service. I'm studying Digital Marketing in my own sparetime when im not involved in projects or school work.
+My name is Robin, im a 37 year old junior Frontend developer from Norway. I'm currently enrolled at Noroff school of technology and digital media at the course Digital Marketing. I have 24 years of experiance with IT, computers and telecom, also worked alot with costumer service. I'm studying Digital Marketing in my own sparetime when im not involved in projects or school work.
 
 I like making or partake in making solutions that will benefit all users of a project/site/app / software or system. I do like keeping the user experiance of things a priority as far as possible. 
 
